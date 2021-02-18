@@ -1,0 +1,14 @@
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\bin\Debug\KozhanovLibrary.pdb
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\obj\Debug\Interop.ADOX.dll
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\obj\Debug\KozhanovLibrary.csproj.ResolveComReference.cache
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\obj\Debug\KozhanovLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\obj\Debug\KozhanovLibrary.dll
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\obj\Debug\KozhanovLibrary.pdb
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\bin\Debug\KozhanovLibrary.dll
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\KozhanovLibrary\bin\Debug\KozhanovLibrary.dll
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\KozhanovLibrary\bin\Debug\KozhanovLibrary.pdb
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\KozhanovLibrary\obj\Debug\Interop.ADOX.dll
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\KozhanovLibrary\obj\Debug\KozhanovLibrary.csproj.ResolveComReference.cache
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\KozhanovLibrary\obj\Debug\KozhanovLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\KozhanovLibrary\obj\Debug\KozhanovLibrary.dll
+C:\Users\kozha\source\repos\KozhanovLibrary\KozhanovLibrary\KozhanovLibrary\obj\Debug\KozhanovLibrary.pdb

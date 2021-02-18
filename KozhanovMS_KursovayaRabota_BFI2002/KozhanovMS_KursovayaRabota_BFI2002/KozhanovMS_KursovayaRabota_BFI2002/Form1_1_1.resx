@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1.1 Оценка потенциала солнечной энергии
+	Солнечная радиация является основным источником тепла. Поток тепла, направленный к поверхности из недр Земли ничтожно мал, как и радиация, получаемая Землей от Луны и звезд.
+	В особенности метеорология рассматривает тепловую радиацию, которая определяется излучательной способностью тела и его температурой. Рентгеновское и гамма излучение в нижние слои атмосферы практически не попадает, поэтому они не рассматриваются. 
+	Тепловая радиация подразделяется на длинноволновую и коротковолновую. Длинноволновой радиацией называют радиацию в диапозоне от 4 до 100 мкм, коротковолновой от 0,1 до 4 мкм. 99% солнечной радиации, которая поступает к поверхности Земли, является коротковолновой.Она в свою очередь делится на ультрафиолетовую (УФ), видимый свет (ВС), инфракрасную (ИК). ВС и ИК дают наибольшее количество энергии.
+	Энергетическая освещенность или плотность потока радиации служит количественной мерой солнечной радиации, поступающей на поверхность. Солнечной постоянной  S_0 называется энергетическая освещенность солнечной радиации, которая падает на солнечную площадку единичной площади, перпендикулярную лучам Солнца за единицу времени на верхней границе атмосферы при среднем расстоянии от Земли до Солнца.Под верхней границей атмосферы понимается отсутствие взаимодействия атмосферы и солнечной радиации. А значит S_0 определяется лишь излучательной способностью Солнца и расстоянием его до Земли. S_0 равно 1367 Вт/м^2 с ошибкой ± 0,3 %. Среднее расстояние от Солнца до Земли   149,6 * 10^6 км. Северное полушарие получает несколько меньше энергии по сравнению с южным из-за изменения расстояния между Землёй и Солнцем. Солнечная постоянная может колебаться, но изменения настолько незначительны, что лежат в пределах точности измерительных приборов современности. Если знать S_0, то возможно посчитать количество солнечной энергии попадающей на освещенное полушарие на верхней границе атмосферы. Оно равняется произведению солнечной постоянной на площадь большого круга Земли. Средний радиус равен 6371 км, площадь равна 1,275 * 10^14 м^2, а лучистая энергия 1,743 * 10^17 Вт. А за год это составляет 5,49* 10^24 Дж. Солярным климатом называют приход на горизонтальную поверхность на верхней границе атмосферы солнечной радиации. Высота солнца для дней солнцестояния определяется по формуле 900–(β±23,50), для дней равноденствия – 900 – β, где β – широта места. Таким образом, высота Солнца на экваторе меняется втечение года от 90до 66,5, в тропиках – от 90 до 43, на полярных кругах – от 47 до 0 и на полюсах – от 23,5 до 0. В соответствии с таким изменением высоты Солнца зимой в каждом полушарии приток солнечной радиации на горизонтальную площадку быстро убывает от экватора к полюсам. Летом все происходит наоборот. Е_г среднесуточное количество солнечной энергии попадающее на горизонтальную площадку на поверхность Земли, измеряется в МДж/(м^2сут.) Величина меняется в зависимости от времени года.
+	Когда солнечная радиация проходит через атмосферу, она рассеивается. В результате этого поток параллельных солнечных лучей рассеивается по всем направлениям.
+	Так же какая-то часть солнечных лучей отражается от поверхности Земли (коэффициент отражение называется альбедо и равен р=0.3), вследствие этого до поверхности земли доходит лишь 70% солнечной энергии.</value>
+  </data>
+</root>
